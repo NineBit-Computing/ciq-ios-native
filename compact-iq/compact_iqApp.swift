@@ -11,7 +11,9 @@ import SwiftUI
 struct compact_iqApp: App {
     var body: some Scene {
         WindowGroup {
+
             ContentView()
+//            addChild(UIViewController)
         }
     }
 }
